@@ -100,11 +100,11 @@ This system is built as a layered application enforcing clean separation of conc
 ## 🗺️ Roadmap
 
 - [x] Phase 1 - Product Ideation and Build Spec
-- [ ] Phase 2 - Company Tenancy & Auth Bootstrap
-- [ ] Phase 3 - Expense Submission & RBAC Enforcement
-- [ ] Phase 4 - Implementation of Sequential Approval Engine
-- [ ] Phase 5 - Integration of Conditional Workflow Triggers
-- [ ] Phase 6 - AI/OCR Pipeline Launch
+- [x] Phase 2 - Company Tenancy & Auth Bootstrap
+- [x] Phase 3 - Expense Submission & RBAC Enforcement
+- [x] Phase 4 - Implementation of Sequential Approval Engine
+- [x] Phase 5 - Integration of Conditional Workflow Triggers
+- [x] Phase 6 - AI/OCR Pipeline Launch
 
 ---
 
